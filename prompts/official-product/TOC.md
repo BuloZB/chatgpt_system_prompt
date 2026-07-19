@@ -25,37 +25,53 @@
 ### claude/claudecode
 
 - [Claude Code System Prompts](./claude/claudecode/README.md)
-- [Claude Code Tools (v2.1.133)](./claude/claudecode/ClaudeCodeTools-2-1-133.md)
-- [ClaudeCodeSystem-2-1-133](./claude/claudecode/ClaudeCodeSystem-2-1-133.md)
-- [System Reminders (v2.1.133)](./claude/claudecode/system-reminders-2-1-133.md)
+- [Claude Code Tools (v2.1.201, SDK-CLI partial)](./claude/claudecode/ClaudeCodeTools-2-1-201.md)
+- [ClaudeCodeSystem-2-1-201](./claude/claudecode/ClaudeCodeSystem-2-1-201.md)
+- [System Reminders (v2.1.201, partial — SDK-CLI capture)](./claude/claudecode/system-reminders-2-1-201.md)
 
 ### claude/claudecode/auxiliary
 
-- [analyze_session_facets-2-1-133](./claude/claudecode/auxiliary/analyze_session_facets-2-1-133.md)
-- [compact-2-1-133](./claude/claudecode/auxiliary/compact-2-1-133.md)
-- [slug_name-2-1-133](./claude/claudecode/auxiliary/slug_name-2-1-133.md)
-- [summarize_conversation-2-1-133](./claude/claudecode/auxiliary/summarize_conversation-2-1-133.md)
-- [summarize_transcript_chunk-2-1-133](./claude/claudecode/auxiliary/summarize_transcript_chunk-2-1-133.md)
+- [analyze_session_facets-2-1-168](./claude/claudecode/auxiliary/analyze_session_facets-2-1-168.md)
+- [compact-2-1-168](./claude/claudecode/auxiliary/compact-2-1-168.md)
+- [slug_name-2-1-168](./claude/claudecode/auxiliary/slug_name-2-1-168.md)
+- [summarize_conversation-2-1-168](./claude/claudecode/auxiliary/summarize_conversation-2-1-168.md)
+- [summarize_transcript_chunk-2-1-168](./claude/claudecode/auxiliary/summarize_transcript_chunk-2-1-168.md)
+
+### claude/claudecode/claude
+
+- [ClaudeCodeClaudeAgent-2-1-168](./claude/claudecode/claude/ClaudeCodeClaudeAgent-2-1-168.md)
 
 ### claude/claudecode/code_guide
 
-- [ClaudeCodeGuideAgent-2-1-133](./claude/claudecode/code_guide/ClaudeCodeGuideAgent-2-1-133.md)
+- [ClaudeCodeGuideAgent-2-1-168](./claude/claudecode/code_guide/ClaudeCodeGuideAgent-2-1-168.md)
+
+### claude/claudecode/custom_agents/claude_obsidian_wiki_ingest
+
+- [ClaudeCodeWikiIngestAgent-2-1-201](./claude/claudecode/custom_agents/claude_obsidian_wiki_ingest/ClaudeCodeWikiIngestAgent-2-1-201.md)
+
+### claude/claudecode/custom_agents/claude_obsidian_wiki_lint
+
+- [ClaudeCodeWikiLintAgent-2-1-168](./claude/claudecode/custom_agents/claude_obsidian_wiki_lint/ClaudeCodeWikiLintAgent-2-1-168.md)
+
+### claude/claudecode/custom_agents/codex_rescue
+
+- [ClaudeCodeCodexRescueAgent-2-1-168](./claude/claudecode/custom_agents/codex_rescue/ClaudeCodeCodexRescueAgent-2-1-168.md)
 
 ### claude/claudecode/explore
 
-- [ClaudeCodeExplore-2-1-133](./claude/claudecode/explore/ClaudeCodeExplore-2-1-133.md)
+- [ClaudeCodeExplore-2-1-201](./claude/claudecode/explore/ClaudeCodeExplore-2-1-201.md)
 
 ### claude/claudecode/file_search
 
-- [ClaudeCodeFileSearchSpecialist-2-1-133](./claude/claudecode/file_search/ClaudeCodeFileSearchSpecialist-2-1-133.md)
+- [ClaudeCodeFileSearchSpecialist-2-1-201](./claude/claudecode/file_search/ClaudeCodeFileSearchSpecialist-2-1-201.md)
 
 ### claude/claudecode/plan
 
-- [ClaudeCodePlanMode-2-1-133](./claude/claudecode/plan/ClaudeCodePlanMode-2-1-133.md)
+- [ClaudeCodePlanMode-2-1-201](./claude/claudecode/plan/ClaudeCodePlanMode-2-1-201.md)
 
 ### claude/claudecode/status_line
 
-- [ClaudeCodeStatusLine-2-1-133](./claude/claudecode/status_line/ClaudeCodeStatusLine-2-1-133.md)
+- [ClaudeCodeStatusLine-2-1-201](./claude/claudecode/status_line/ClaudeCodeStatusLine-2-1-201.md)
 
 ### claude/clauderesearch
 
@@ -152,6 +168,11 @@
 - [operator](./openai/operator.md)
 - [prism](./openai/prism.md)
 - [study_mode](./openai/study_mode.md)
+
+### openai/codex-desktop
+
+- [5.6-Sol_SystemPrompt](./openai/codex-desktop/5.6-Sol_SystemPrompt.md)
+- [Codex Desktop GPT-5.6 Sol Prompt Snapshot](./openai/codex-desktop/README.md)
 
 ### other
 
